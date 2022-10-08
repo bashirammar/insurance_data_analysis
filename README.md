@@ -7,7 +7,7 @@ Descriptive Statistic Analysis,
 Categorical Variables Analysis,
 Continuous Variables Analysis,
 Variables Correlation,
-Hypothesis Testing, nad
+Hypothesis Testing, dan
 Conclusion
 
 ### Saran perbaikan
