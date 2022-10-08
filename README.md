@@ -3,11 +3,11 @@
 Project ini dibuat ini memebuhi tugas project intro to probability di pacmann.ai. Tugas bertujuan untuk melihat analisa menggunakan ilmu probability dan statistika yang dipelajari selama dikelas. 
 
 ### Detail task
-Descriptive Statistic Analysis
-Categorical Variables Analysis
-Continuous Variables Analysis
-Variables Correlation
-Hypothesis Testing
+Descriptive Statistic Analysis,
+Categorical Variables Analysis,
+Continuous Variables Analysis,
+Variables Correlation,
+Hypothesis Testing, nad
 Conclusion
 
 ### Saran perbaikan
